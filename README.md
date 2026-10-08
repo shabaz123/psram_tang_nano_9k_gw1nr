@@ -10,7 +10,9 @@ The Gowin PSRAM IP was configured to split the 64 Mbit PSRAM into two 32 Mbit ch
 
 ## What does the VHDL code do?
 
-[PSRAM VHDL Block Diagram](https://raw.githubusercontent.com/shabaz123/psram_tang_nano_9k_gw1nr/main/psram_diag.svg) (right-click and open in a new window).
+[PSRAM VHDL Block Diagram](https://raw.githubusercontent.com/shabaz123/psram_tang_nano_9k_gw1nr/main/psram_diag.svg) 
+
+(Preferably right-click and open in a new window, then pinch-to-zoom etc).
 
 The VHDL performs the following operations in sequence:
 
