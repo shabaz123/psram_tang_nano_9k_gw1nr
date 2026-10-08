@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/DEV/projects/tang/psram_test_project/src/top.vhd",
+  "InstLine" : 29,
+  "InstName" : "TOP",
+  "ModuleFile" : "C:/DEV/projects/tang/psram_test_project/src/top.vhd",
+  "ModuleLine" : 29,
+  "ModuleName" : "TOP",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/DEV/projects/tang/psram_test_project/src/top.vhd",
+    "InstLine" : 269,
+    "InstName" : "psram_instance",
+    "ModuleFile" : "C:/DEV/projects/tang/psram_test_project/src/psram_memory_interface_hs/psram_memory_interface_hs.vhd",
+    "ModuleLine" : 9,
+    "ModuleName" : "PSRAM_Memory_Interface_HS_Top"
+   },
+   {
+    "InstFile" : "C:/DEV/projects/tang/psram_test_project/src/top.vhd",
+    "InstLine" : 257,
+    "InstName" : "pll_inst",
+    "ModuleFile" : "C:/DEV/projects/tang/psram_test_project/src/gowin_rpll/gowin_rpll.vhd",
+    "ModuleLine" : 13,
+    "ModuleName" : "Gowin_rPLL"
+   }
+  ]
+ }
+]
