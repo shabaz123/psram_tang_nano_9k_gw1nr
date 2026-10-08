@@ -1,5 +1,7 @@
 # Using PSRAM with the Tang Nano 9k (Gowin GW1NR FPGA with integrated PSRAM die)
 
+The GOWIN GW1NR device integrates an FPGA die, and a PSRAM die, all in one package. The GW1NR is used on the Tang Nano 9k, which makes it easy to get going with the GW1NR.
+
 This repository contains example VHDL that exercises the PSRAM. 
 
 ## PSRAM Configuration
